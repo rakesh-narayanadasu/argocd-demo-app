@@ -9,8 +9,8 @@ spec:
   project: default
 
   source:
-    repoURL: http://165.22.209.118:3000/siddharth/gitops-argocd.git
-    targetRevision: HEAD
+    repoURL: https://github.com/rakesh-narayanadasu/learn-argocd.git
+    targetRevision: argocd
     path: ./declarative/manifests/geocentric-model
    
   destination:
