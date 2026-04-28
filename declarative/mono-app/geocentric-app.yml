@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/rakesh-narayanadasu/learn-argocd.git
+    repoURL: https://github.com/rakesh-narayanadasu/argocd-demo-app.git
     targetRevision: argocd
     path: ./declarative/manifests/geocentric-model
    
